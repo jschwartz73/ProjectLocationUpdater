@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/features/com.github.eclipse.projectlocationupdater.feature/com.github.eclipse.projectlocationupdater.feature.iml" filepath="$PROJECT_DIR$/features/com.github.eclipse.projectlocationupdater.feature/com.github.eclipse.projectlocationupdater.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.github.eclipse.projectlocationupdater.parent.iml" filepath="$PROJECT_DIR$/com.github.eclipse.projectlocationupdater.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/com.github.eclipse.projectlocationupdater.plugin/com.github.eclipse.projectlocationupdater.plugin.iml" filepath="$PROJECT_DIR$/plugins/com.github.eclipse.projectlocationupdater.plugin/com.github.eclipse.projectlocationupdater.plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/update-site/com.github.eclipse.projectlocationupdater.update-site.iml" filepath="$PROJECT_DIR$/update-site/com.github.eclipse.projectlocationupdater.update-site.iml" />
+    </modules>
+  </component>
+</project>
